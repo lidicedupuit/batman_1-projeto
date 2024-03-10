@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+}
+header {
+    height: 90px;
+    display: flex;
+    font-family: "Kdam Thmor Pro", sans-serif;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #D21617;
+    color: black;
+}
+.elencoEquipe {    
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+      
+}
+.equipeBatman {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.equipeMulherGato {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.equipeJimGordon {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.equipePinguim{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.image {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 400px;
+    height: 300px;      
+   
+}
+.name {
+    font-size: larger;
+    color: #D21617;
+}
+.text {
+    width: auto;
+    margin-left: 20px;
+}
